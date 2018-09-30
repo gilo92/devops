@@ -1,0 +1,9 @@
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.exe.config
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.Form1.resources
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.Properties.Resources.resources
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.exe
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\bin\Debug\Quanlitrasua.pdb
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.exe
+C:\Users\Computer\Desktop\New folder\b2\Quanlitrasua\Quanlitrasua\obj\Debug\Quanlitrasua.pdb
